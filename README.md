@@ -7,13 +7,11 @@
 
 <h3>
 I'm excited to share my journey as a blockchain developer 🚀.
-<br>As you can see, my GitHub name is "liveseed."🌱
-<br>Just as seeds grow into strong, resilient plants 🌿, the distributed 🌐 and immutable 🔒 nature of blockchain technology provides a solid foundation for the future.
-<br>My expertise lies in developing smart contracts 📜 and decentralized applications (DApps) on platforms such as Ethereum, Solana, Aptos, Neo, and Hyperledger Fabric. 
-<br>I’m proficient in programming languages like Solidity, Rust, and Go 💻, and I’m committed to continually expanding my knowledge by learning new technologies 📚.
-<br>My passion is rooted in the transformative potential of blockchain across various sectors, including finance 💰, supply chain management 📦, and identity management 🆔.
-<br>As a dedicated blockchain developer, I’m committed to sowing the seeds of innovation 🌾 by staying at the forefront of emerging technologies.
-If you’re interested in exploring the fertile ground 🌾 of blockchain or decentralized solutions, I’d love to connect 🤝.
+<br>I develop smart contracts and DApps on platforms like Ethereum, Neo, and Hyperledger Fabric.
+<br>I'm skilled in languages like Solidity, Rust, and Go, and I'm always learning new ones 💡.
+<br>I'm passionate about how blockchain can transform finance 💰, supply chain management 📦, identity management 🆔, and more.
+<br>As a blockchain developer, I stay ahead by continuously learning and exploring new possibilities 🔍.
+<br>If you're interested in blockchain or want to explore decentralized solutions, let's connect 🤝!
 </h3>
 
 <br clear="both">
