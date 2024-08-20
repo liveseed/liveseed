@@ -7,7 +7,7 @@
 
 <h3>
 I'm excited to share my journey as a blockchain developer 🚀.
-<br>I develop smart contracts and DApps on platforms like Ethereum, Neo, and Hyperledger Fabric.
+    
 <br>I'm skilled in languages like Solidity, Rust, and Go, and I'm always learning new ones 💡.
 <br>I'm passionate about how blockchain can transform finance 💰, supply chain management 📦, identity management 🆔, and more.
 <br>As a blockchain developer, I stay ahead by continuously learning and exploring new possibilities 🔍.
