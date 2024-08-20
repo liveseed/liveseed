@@ -22,8 +22,8 @@ I'm excited to share my journey as a blockchain developer 🚀.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codemonkeywebcoder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codemonkeywebcoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=liveseed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liveseed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -83,12 +83,12 @@ I'm excited to share my journey as a blockchain developer 🚀.
 
 #
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=codemonkeywebcoder&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=liveseed&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 #
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codemonkeywebcoder&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liveseed&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="James Cross's activity graph">
 </p>
 
 
