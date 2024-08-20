@@ -10,6 +10,7 @@ I'm excited to share my journey as a blockchain developer 🚀.
 <br>I'm skilled in languages like Solidity, Rust, and Go, and I'm always learning new ones 💡.
 <br>I'm passionate about how blockchain can transform finance 💰, supply chain management 📦, identity management 🆔, and more.
 <br>As a blockchain developer, I stay ahead by continuously learning and exploring new possibilities 🔍.
+<br>If you're interested in blockchain or want to explore decentralized solutions, let's connect 🤝!
 </h3>
 
 <br clear="both">
