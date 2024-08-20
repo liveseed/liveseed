@@ -4,7 +4,6 @@
 
 
 ##
-
 <h3>
 I'm excited to share my journey as a blockchain developer 🚀.
     
@@ -15,6 +14,7 @@ I'm excited to share my journey as a blockchain developer 🚀.
 </h3>
 
 <br clear="both">
+
 <h2 align="center" >
 <br>Together, we can shape a decentralized future! 🌍✨
 </h2>
