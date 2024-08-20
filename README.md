@@ -7,7 +7,7 @@
 
 <h3>
 I'm excited to share my journey as a blockchain developer 🚀.
-<br>As you might have noticed, my GitHub handle is "liveseed."🌱
+<br>As you can see, my GitHub name is "liveseed."🌱
 <br>Just as seeds grow into strong, resilient plants 🌿, the distributed 🌐 and immutable 🔒 nature of blockchain technology provides a solid foundation for the future.
 <br>My expertise lies in developing smart contracts 📜 and decentralized applications (DApps) on platforms such as Ethereum, Solana, Aptos, Neo, and Hyperledger Fabric. 
 <br>I’m proficient in programming languages like Solidity, Rust, and Go 💻, and I’m committed to continually expanding my knowledge by learning new technologies 📚.
